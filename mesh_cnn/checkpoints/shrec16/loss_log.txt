@@ -1,0 +1,35 @@
+================ Training Loss (Wed Mar 15 16:28:16 2023) ================
+(epoch: 1, iters: 80, time: 0.306, data: 2.457) loss: 3.369 
+(epoch: 1, iters: 160, time: 0.322, data: 0.000) loss: 3.391 
+================ Training Loss (Wed Mar 15 16:43:19 2023) ================
+================ Training Loss (Wed Mar 15 16:44:25 2023) ================
+(epoch: 1, iters: 80, time: 0.303, data: 2.154) loss: 3.396 
+(epoch: 1, iters: 160, time: 0.306, data: 0.000) loss: 3.388 
+(epoch: 1, iters: 240, time: 0.306, data: 0.016) loss: 3.417 
+(epoch: 1, iters: 320, time: 0.309, data: 0.009) loss: 3.399 
+(epoch: 1, iters: 400, time: 0.299, data: 0.000) loss: 3.367 
+(epoch: 1, iters: 480, time: 0.299, data: 0.014) loss: 3.342 
+================ Training Loss (Wed Mar 15 16:52:14 2023) ================
+================ Training Loss (Wed Mar 15 16:53:25 2023) ================
+================ Training Loss (Wed Mar 15 21:24:31 2023) ================
+(epoch: 1, iters: 80, time: 0.334, data: 3.162) loss: 3.416 
+(epoch: 1, iters: 160, time: 0.349, data: 0.007) loss: 3.407 
+(epoch: 1, iters: 240, time: 0.347, data: 0.008) loss: 3.420 
+(epoch: 1, iters: 320, time: 0.358, data: 0.008) loss: 3.374 
+(epoch: 1, iters: 400, time: 0.337, data: 0.010) loss: 3.345 
+(epoch: 1, iters: 480, time: 0.335, data: 0.007) loss: 3.368 
+(epoch: 2, iters: 80, time: 0.349, data: 2.231) loss: 3.314 
+(epoch: 2, iters: 160, time: 0.346, data: 0.001) loss: 3.322 
+================ Training Loss (Wed Mar 15 21:32:04 2023) ================
+(epoch: 1, iters: 80, time: 0.374, data: 2.565) loss: 3.426 
+(epoch: 1, iters: 160, time: 0.500, data: 0.001) loss: 3.419 
+(epoch: 1, iters: 240, time: 0.476, data: 0.019) loss: 3.437 
+(epoch: 1, iters: 320, time: 0.511, data: 0.009) loss: 3.399 
+(epoch: 1, iters: 400, time: 0.362, data: 0.001) loss: 3.361 
+(epoch: 1, iters: 480, time: 0.375, data: 0.017) loss: 3.378 
+(epoch: 2, iters: 80, time: 0.374, data: 2.643) loss: 3.361 
+(epoch: 2, iters: 160, time: 0.369, data: 0.011) loss: 3.368 
+(epoch: 2, iters: 240, time: 0.378, data: 0.001) loss: 3.369 
+(epoch: 2, iters: 320, time: 0.361, data: 0.018) loss: 3.364 
+(epoch: 2, iters: 400, time: 0.357, data: 0.012) loss: 3.320 
+(epoch: 2, iters: 480, time: 0.369, data: 0.000) loss: 3.337 
