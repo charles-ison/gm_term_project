@@ -1,0 +1,30 @@
+﻿  learnply.cpp
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(106,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(319,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(853,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(899,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(916,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(925,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1207,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1214,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1216,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1249,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1250,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1283,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1337,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1437,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1489,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1531,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1572,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1575,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1582,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1586,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1628,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1639,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1648,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1659,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1764,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1775,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1832,13): warning C4018: '<': signed/unsigned mismatch
+icVector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> C:\Users\isonc\source\repos\gm_assignment_4\learnply\Debug\learnply.exe
