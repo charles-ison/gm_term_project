@@ -1,15 +1,15 @@
 ------------ Options -------------
 arch: mconvnet
-batch_size: 16
+batch_size: 1
 beta1: 0.9
 checkpoints_dir: ./checkpoints
 continue_train: False
 dataroot: datasets/shrec_16
 dataset_mode: classification
 epoch_count: 1
-export_folder: 
+export_folder: ./checkpoints/shrec16/meshes
 fc_n: 100
-flip_edges: 0.2
+flip_edges: 0
 gpu_ids: []
 init_gain: 0.02
 init_type: normal
@@ -21,11 +21,11 @@ max_dataset_size: inf
 name: shrec16
 ncf: [64, 128, 256, 256]
 ninput_edges: 750
-niter: 1
-niter_decay: 1
+niter: 100
+niter_decay: 500
 no_vis: False
 norm: group
-num_aug: 20
+num_aug: 10
 num_groups: 16
 num_threads: 3
 phase: train
@@ -38,7 +38,7 @@ save_latest_freq: 250
 scale_verts: False
 seed: None
 serial_batches: False
-slide_verts: 0.2
+slide_verts: 0
 verbose_plot: False
 which_epoch: latest
 -------------- End ----------------
