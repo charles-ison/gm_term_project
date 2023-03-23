@@ -17,6 +17,8 @@ class ClassificationData(BaseDataset):
         self.nclasses = len(self.classes)
         self.size = len(self.paths)
         self.get_mean_std()
+        self.are_meshes_overridden = False
+        self.overridden_meshes = None
         # modify for network later.
         opt.nclasses = self.nclasses
         opt.input_nc = self.ninput_channels
@@ -24,7 +26,12 @@ class ClassificationData(BaseDataset):
     def __getitem__(self, index):
         path = self.paths[index][0]
         label = self.paths[index][1]
-        mesh = Mesh(file=path, opt=self.opt, hold_history=False, export_folder=self.opt.export_folder)
+
+        if(not self.are_meshes_overridden):
+            mesh = Mesh(file=path, opt=self.opt, hold_history=False, export_folder=self.opt.export_folder)
+        else:
+            mesh = self.overridden_meshes[index]
+    
         meta = {'mesh': mesh, 'label': label}
         # get edge features
         edge_features = mesh.extract_features()
@@ -58,3 +65,7 @@ class ClassificationData(BaseDataset):
                         item = (path, class_to_idx[target])
                         meshes.append(item)
         return meshes
+
+    def override_meshes(self, new_meshes):
+        self.are_meshes_overridden = True
+        self.overridden_meshes = new_meshes
