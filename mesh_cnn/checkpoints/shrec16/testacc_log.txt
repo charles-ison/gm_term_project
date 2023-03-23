@@ -411,3 +411,65 @@ epoch: -1, TEST ACC: [99.167 %]
 
 epoch: -1, TEST ACC: [95.0 %]
 
+================ Testing Acc (Thu Mar 23 00:03:03 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [93.333 %]
+
+epoch: -1, TEST ACC: [93.333 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 00:33:01 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 00:39:00 2023) ================
+================ Testing Acc (Thu Mar 23 00:49:19 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 00:52:32 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 01:04:16 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 01:20:20 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 01:49:42 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [92.5 %]
+
+epoch: -1, TEST ACC: [90.833 %]
+
+epoch: -1, TEST ACC: [90.833 %]
+
+================ Testing Acc (Thu Mar 23 02:19:50 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [92.5 %]
+
+================ Testing Acc (Thu Mar 23 02:29:54 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [92.5 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [93.333 %]
+
+epoch: -1, TEST ACC: [93.333 %]
+
+epoch: -1, TEST ACC: [88.333 %]
+
+epoch: -1, TEST ACC: [90.833 %]
+
