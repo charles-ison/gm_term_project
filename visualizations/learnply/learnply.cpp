@@ -103,7 +103,7 @@ int main(int argc, char *argv[])
 
   progname = argv[0];
 
-	this_file = fopen("../tempmodels/random_walk_spider_108.ply", "r");
+	this_file = fopen("../tempmodels/random_walk_shark_104.ply", "r");
 	poly = new Polyhedron (this_file);
 	fclose(this_file);
 	mat_ident( rotmat );	
