@@ -1,30 +1,30 @@
 ﻿  learnply.cpp
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(106,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(319,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(853,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(899,13): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(916,13): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(925,14): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1009,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1389,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1396,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1398,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1431,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1432,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1465,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1519,16): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1619,13): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1671,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1713,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1754,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1757,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1764,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1768,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1810,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1821,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1830,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1841,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1946,40): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(1957,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\isonc\source\repos\gm_assignment_4\learnply\learnply.cpp(2014,13): warning C4018: '<': signed/unsigned mismatch
-  learnply.vcxproj -> C:\Users\isonc\source\repos\gm_assignment_4\learnply\Release\learnply.exe
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(106,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(319,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(853,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(899,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(916,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(925,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1009,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1389,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1396,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1398,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1431,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1432,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1465,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1519,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1619,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1671,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1713,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1754,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1757,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1764,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1768,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1810,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1821,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1830,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1841,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1946,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(1957,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\learnply.cpp(2014,13): warning C4018: '<': signed/unsigned mismatch
+  learnply.vcxproj -> C:\Users\isonc\source\repos\gm_term_project\visualizations\learnply\Release\learnply.exe
