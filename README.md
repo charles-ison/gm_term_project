@@ -8,6 +8,7 @@ Charles Ison
 ## Running The Program
 * Project was compiled and tested using Visual Studio on the machines in the Kelly computer lab  
 * To change the ply file displayed, update the file path in learnply.cpp (ply files used in this report are stored in the tempmodels folder)
+* Example adversarial meshes generated using random walks and random perturbations also added to the tempmodels folder
 * The 'a' key displays the chosen ply file using the texture given by: 𝑅(𝑥,𝑦,𝑧)=𝑥, G(𝑥,𝑦,𝑧)=𝑦, B(𝑥,y,𝑧)=𝑧
 * The 'b' key displays the chosen ply file using the texture given by: 𝑅(𝑥,𝑦,𝑧)=abs(Nx), G(𝑥,𝑦,𝑧)=abs(Ny), B(𝑥,y,𝑧)=abs(Nz)
 * The 'c' key displays the chosen ply file using the 3D Checkerboard texture
@@ -20,7 +21,5 @@ Charles Ison
 * The 'j' key performs smoothing using a mean curvature flow weighting scheme
 * The 'k' key performs smoothing using a mean value coordinates weighting scheme
 * the 'l' key recalculates the angular deficit for each vertex and the total angular vertex.
-
-### Components Critical for Project 4
 * The 'n' key performs regular subdivision
 * The 'm' key performs irregular subdivion, where the user will first be prompted to enter a new edge threshold and all edges longer than the threshold will undergo subdivision. The threshold will be used as a double.
