@@ -3,10 +3,12 @@ Geometric Modeling
 
 Charles Ison  
 
-03/05/2023
+03/11/2023
 
 ## Running The Program
 * Project was compiled and tested using Visual Studio on the machines in the Kelly computer lab  
+* The code to generate the adversarial meshes is inside the MeshCNN folder in a random_walk_adversarial_attack Jupyter notebook
+* The OpenGL code to visualize the newly generated meshes is in the visualizations folder
 * To change the ply file displayed, update the file path in learnply.cpp (ply files used in this report are stored in the tempmodels folder)
 * Example adversarial meshes generated using random walks and random perturbations also added to the tempmodels folder
 * The 'a' key displays the chosen ply file using the texture given by: 𝑅(𝑥,𝑦,𝑧)=𝑥, G(𝑥,𝑦,𝑧)=𝑦, B(𝑥,y,𝑧)=𝑧
