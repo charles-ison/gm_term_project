@@ -1,4 +1,4 @@
-# Project 4
+# Term Project
 Geometric Modeling
 
 Charles Ison  
