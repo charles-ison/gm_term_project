@@ -703,3 +703,17 @@ epoch: -1, TEST ACC: [91.667 %]
 
 epoch: -1, TEST ACC: [91.667 %]
 
+================ Testing Acc (Thu Mar 23 21:33:04 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [99.167 %]
+
+================ Testing Acc (Thu Mar 23 21:34:54 2023) ================
+epoch: -1, TEST ACC: [99.167 %]
+
+epoch: -1, TEST ACC: [73.333 %]
+
+epoch: -1, TEST ACC: [91.667 %]
+
